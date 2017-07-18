@@ -1,8 +1,8 @@
 #####################################
-### Dejavu example testing script ###
+### Dejaffvu example testing script ###
 #####################################
 
-###########
+#ddf##########
 # Clear out previous results
 rm -rf ./results ./temp_audio
 
